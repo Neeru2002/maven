@@ -1,0 +1,2 @@
+s=input("I LOVE YOU")
+print(s)
